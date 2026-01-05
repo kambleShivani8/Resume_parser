@@ -23,3 +23,6 @@ ranks candidates, and exports results in CSV format.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+## Here is output screen
+<img width="1920" height="1200" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/9c433a4a-964b-4d91-b9a1-6a878fa1593e" />
+
