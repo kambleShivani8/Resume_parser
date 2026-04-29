@@ -23,8 +23,13 @@ ranks candidates, and exports results in CSV format.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-## Here is output screen
-## 📸 Screenshot
+# Resume Parser
 
-![Resume Parser Dashboard](screenshots/dashboard.png)
+🔗 Live Demo: https://your-app-name.streamlit.app
+
+## Features
+
+* Upload PDF resume
+* Extract skills
+* Parse experience
 
